@@ -1,4 +1,4 @@
-// A C# console app that converts an RGB to a HEX trplet
+// A C# console app that converts an RGB triplet to a HEX trplet
 // Not the most efficient algorithm, as it was built with the purpose of learning arrays and loops
 
 using System;
