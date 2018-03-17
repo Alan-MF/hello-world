@@ -1,4 +1,7 @@
-﻿using System;
+// A C# console app that converts an RGB to a HEX trplet
+// Not the most efficient algorithm, as it was built with the purpose of learning arrays and loops
+
+using System;
 
 namespace ConverToHex
 {
